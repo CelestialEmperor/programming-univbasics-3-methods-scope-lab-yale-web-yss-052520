@@ -19,5 +19,6 @@ end
 def all_phrases
   phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
-  return phrase
+  phrase = "It's-a me, Mario!"
+  puts phrase
 end
