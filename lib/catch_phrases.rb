@@ -11,9 +11,7 @@ def toadstool
 end
 
 def link
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts status
-  phrase = "It's-a me, Mario!"
+  phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
   return phrase
 end
